@@ -1,9 +1,4 @@
 ''''
-Notes for self:
-    1. Skills used: Python Dictionaries, Input/Output, typecasting, recurssion, beautifulsoup, html parsing
-'''
-
-''''
     Starting Phase:
         1. Welcome message
         2. List of countries
